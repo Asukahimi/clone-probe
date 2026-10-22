@@ -1,0 +1,4 @@
+clone-probe
+started: 2026-10-22 19:25 Asia/Shanghai
+purpose: private repo baseline for GitHub traffic clone counting
+note: if this stays at zero while public repos spike, the spike is caused by public exposure
